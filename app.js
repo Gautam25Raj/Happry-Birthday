@@ -30,7 +30,7 @@ const messages = [
   "Tu jaa yaha se!!! tumhara yaha koi kaam nahi hain!!! 😑😑😑", //6
   {
     msg: "",
-    src: "resources1/hindustaniBhau.jpg",
+    src: "resources/img/hindustaniBhau.jpg",
   }, //7
   // Choice1 Option2 choice:"I knew this was coming!!"
   {
