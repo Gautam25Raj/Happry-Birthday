@@ -190,11 +190,11 @@ img {
 
 @media screen and (max-width: 600px) {
   .message {
-    max-width: 70%;
+    max-width: 90%;
   }
 
   .gif-message {
-    max-width: 70%;
+    max-width: 90%;
   }
 }
 
